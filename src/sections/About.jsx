@@ -76,7 +76,7 @@ const About = () => {
                 I&apos;m available for remote work and collaborations
                 worldwide.
               </p>
-              <a href="#contact">
+              <a href="#about-contact">
                 <Button
                   name="Contact Me"
                   isBeam
@@ -105,7 +105,7 @@ const About = () => {
           </div>
         </div>
 
-        <div className="xl:col-span-1 xl:row-span-2">
+        <div className="xl:col-span-1 xl:row-span-2 scroll-mt-24" id="about-contact">
           <div className="grid-container">
             <img
               src="assets/grid4.png"

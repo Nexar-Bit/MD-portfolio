@@ -69,7 +69,7 @@ const Hero = () => {
     <section id="#home" className="h-screen">
       <div className="w-full mx-auto flex flex-col sm:mt-36 mt-20 c-space gap-3">
         <p className="text-base sm:text-lg md:text-xl xl:text-3xl font-medium text-white text-center font-generalsans">
-          Hello, I am MD Tanvir Rahman... <span className="waving-hand">👋</span>
+          Hello, I am MD Tanvir Rahman. (Email: corp.bit1769@outlook.com) <span className="waving-hand">👋</span>
         </p>
 
         <p className="hero_tag text-gray_gradient" ref={textRef}></p>
